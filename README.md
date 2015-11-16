@@ -1,4 +1,4 @@
-# Finances
+# Finances - DRAFT WORK IN PROGRESS
 
 Bridge Foundry and all its Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We operate with a 501c3 non-profit status as a program under [School Factory](http://schoolfactory.org).   
 
