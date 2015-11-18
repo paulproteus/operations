@@ -19,7 +19,7 @@ This section contains links to information about applying for a grant from Bridg
 - How to get reimbursed for Bridge related expenses
 
 ## Sponsorship
-None or our organizations and initiatives could exist without the help of companies that sponsor our efforts and support us in our mission. In this section we provide information for:
+None or our organizations and initiatives could exist without the help of companies that sponsor our efforts and support us in our mission. In this section we provide links to information about:
 
 - How a volunteer can [request an invoice](/sponsorship/request_invoice.md) for a sponsor
 - Different ways in which companies can [send us tax-exempt donations](/sponsorship/send_donations.md)
