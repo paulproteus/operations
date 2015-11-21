@@ -1,6 +1,6 @@
 # Verify 501c3 status
 
-Bridge Foundry is certified by the Internal Revenue Service as a 501(c)(3).
+Bridge Foundry has non-profit status as a program of School Factory which is certified by the Internal Revenue Service as a 501(c)(3).
 
 There are two documents that allow for verifying our status with the IRS:
 
