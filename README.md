@@ -1,13 +1,15 @@
 # Finances - DRAFT WORK IN PROGRESS
 
-Bridge Foundry and all its Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We operate with a 501c3 non-profit status as a program under [School Factory](http://schoolfactory.org).  
+Bridge Foundry and all its Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We empower people with technology through teaching, documentation and facilitating access, enlarging the community of people who give back and teach others.
+
+Bridge Foundry operates as a program of the [School Factory](http://schoolfactory.org), which is a 501c3 organization (giving us non-profit status in the USA).
 
 The Bridge Foundry work of collecting, tracking, distributing and reporting funds for all Bridges in a tax responsible way is made possible thanks to a paid part-time Bridge Foundry employee. School Factory manages our federal reporting and other administrative overhead such as reimbursements and expense tracking.
 
 The way Bridge Foundry and all the Bridges and their Chapters manage their funds must be a process that is 100% transparent. Here is where you will find information about all of our financials and money management processes.
 
 ## Funding status
-Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise.
+Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policy](bridge-chapter-policy).
 
 The up-to-date financial information for Bridge Foundry and each Bridge entity can found here: [funding status](funding_status.md).
 
