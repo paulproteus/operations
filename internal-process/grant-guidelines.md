@@ -1,11 +1,12 @@
 # Grant Decision Guidelines
 
 Grants are typically approved automatically when there are funds.  If needed,
-Program Director will make decisions between multiple applications that
+the Program Director will make decisions between multiple applications that
 exceed the budget at her discretion, using the following
 guidelines.  
 
 Possible criteria if low on funds:
+
 1. Where a small amount of funding is going to make a big impact.
 2. Preference for Bridge workshops where there is no fully formed Bridge organization (for example, preference MobileBridge right now, since they don’t have their own board and central fund over RailsBridge which has more “meta” volunteers)  
 3. Preference to workshops that new outreach target group or geography
