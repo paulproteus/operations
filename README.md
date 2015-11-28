@@ -9,7 +9,7 @@ The Bridge Foundry work of collecting, tracking, distributing and reporting fund
 The way Bridge Foundry and all the Bridges and their Chapters manage their funds must be a process that is 100% transparent. Here is where you will find information about all of our financials and money management processes.
 
 ## Funding status
-Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policy](bridge-chapter-policy).
+Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policy](bridge-chapter-policy.md).
 
 The up-to-date financial information for Bridge Foundry and each Bridge entity can found here: [funding status](funding-status.md).
 
