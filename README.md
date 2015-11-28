@@ -16,8 +16,8 @@ The up-to-date financial information for Bridge Foundry and each Bridge entity c
 ## For volunteers
 This section contains links to information about applying for a grant from Bridge Foundry. Alternatively, you will learn about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources.
 
-- Different ways the main Bridge Foundry funds are available to [financially support](financial-support.md) individual Bridges and Chapters initiatives, as well as single workshops
-- How anyone can [apply for a grant](workshop-grant-applications.md) for a Bridge Foundry related event, whether or not they have a established local chapter
+- Different ways the main Bridge Foundry funds are available to [financially support](financial-support) individual Bridges and Chapters initiatives, as well as single workshops
+- How anyone can [apply for a grant](finalcial-support/workshop-grant-applications.md) for a Bridge Foundry related event, whether or not they have a established local chapter
 - How to [establish a fund](establish-new-fund.md) as a new Bridge or as a new Chapter of a Bridge
 - Mechanisms and rules for [depositing and withdrawing money](deposit-withdrawal.md) to/from your own fund
 - How to get reimbursed for Bridge related expenses
