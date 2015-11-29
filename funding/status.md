@@ -7,3 +7,6 @@ A running tally of money in/money/out and balance, as well as contact info, for 
 
 ### Audits
 Audit information, how it happens, and dates of audits performed.
+
+## Quarterly Chapter Spreadsheet Audit
+During the last week of each quarter, we need the designated finance liaison form each chapter to review their tab on the Master Financial Spreadsheet for Accuracy.

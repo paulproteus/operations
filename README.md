@@ -14,13 +14,12 @@ Each Bridge and each Bridge Chapter maintains full autonomy over the funds they 
 The up-to-date financial information for Bridge Foundry and each Bridge entity can found here: [funding status](funding/status.md).
 
 ## For volunteers
-This section contains links to information about applying for a grant from Bridge Foundry. Alternatively, you will learn about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources.
+This section contains links to information about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources. Alternatively, you will learn about applying for a grant from Bridge Foundry.
 
-- Different ways the main Bridge Foundry funds are available to [financially support](financial-support) individual Bridges and Chapters initiatives, as well as single workshops
+- Different ways Bridge Foundry funds are used to [financially support](financial-support) individual Bridges and Chapters initiatives, as well as single workshops
 - How anyone can [apply for a grant](financial-support/workshop-grant-applications.md) for a Bridge Foundry related event, whether or not they have a established local chapter
-- How to [establish a fund](establish-new-fund.md) as a new Bridge or as a new Chapter of a Bridge
-- Mechanisms and rules for [depositing and withdrawing money](deposit-withdrawal.md) to/from your own fund
-- How to get reimbursed for Bridge related expenses
+- How to [establish a fund](sponsorship) as a new Bridge or as a new Chapter of a Bridge
+- How to [withdraw money](using-funds) for Bridge related expenses
 
 ## Sponsorship
 None or our organizations and initiatives could exist without the help of companies that sponsor our efforts and support us in our mission. In this section we provide links to information about:
@@ -28,3 +27,13 @@ None or our organizations and initiatives could exist without the help of compan
 - How a volunteer can [request an invoice](/sponsorship/request-invoice.md) for a sponsor
 - Different ways in which companies can [send us tax-deductible donations](/sponsorship/send-donations.md)
 - Where anyone can [verify our 501c3 status](/sponsorship/verify-501c3-status.md)
+
+----
+## Ways to reach us (in order of preference)
+
+- For questions about the guidelines contained in this repo, please [open a new issue](https://github.com/bridgefoundry/finances/issues). We get notified automatically and will get back to you soon after.
+
+- Reach out to us on our mailing-list:
+https://groups.google.com/forum/#!forum/bridgefoundry
+
+- Email us at support@bridgefoundry.org

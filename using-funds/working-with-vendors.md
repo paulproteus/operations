@@ -1,0 +1,82 @@
+# Vendors
+
+## Invoicing Bridge Foundry
+
+Vendors can invoice Bridge Foundry directly by mailing the invoice to our Accounts Payable:
+```
+Jenn Turner
+jenn@schoolfactory.org
+414.212.5215
+Bridge Foundry c/o School Factory
+Shops of the Grand Ave
+Plankinton Building
+161 W Wisconsin Ave, #2
+Milwaukee, WI 53204
+```
+
+**Note: must reference the *Bridge chapter on the invoice.** Example: RailsBridge Boston, ClojureBridge San Francisco.
+
+## Preferred vendors
+
+Use the FAQ below to kick off a relationship with a Preferred Vendor. Make sure to fill in the "Local *Bridge Contact" with your info before you send it to someone!
+
+### [*Bridge] Preferred Vendor FAQs
+
+_ What is [\*Bridge]? _
+
+[\*Bridge] is an organization that hosts free workshops each year to help people level up with programming technologies. Our focus is on increasing diversity in tech, and making the tech community a welcoming place for everyone. Everyone in [*Bridge] is a volunteer, and our funding comes mostly from technology companies working with us to improve diversity in the tech community.
+
+_ What is a Preferred Vendor? _
+
+In locations where we hold workshops repeatedly, we're developing relationships with companies that provide meals and childcare for the workshops. This established relationship makes it easier for volunteers workshop organizers and for vendors who do business with [*Bridge]. We'll try to set a standard order for Preferred Vendors that can be scaled up or down for the headcount of a given workshop. After that, for each workshop, a workshop organizer will provide the headcount and workshop location.
+
+We would like to make the experience for [*Bridge] Preferred Vendors as seamless as possible. Please give us feedback if something is difficult or inconvenient from your side; the best email for that feedback is [your email here].
+
+_ How does [*Bridge] pay for the workshops' food and childcare? _
+
+Our parent organization is called Bridge Foundry, and is a 501c3 non-profit organization. Bridge Foundry pays expenses invoiced to [*Bridge]. The best way to invoice [*Bridge] is to send the invoice directly to Bridge Foundry.
+
+Be sure to reference the [*Bridge] chapter on the invoice (such as [*Bridge] Boston or [*Bridge] Boulder).
+
+You can mail an invoice to:
+
+Bridge Foundry c/o School Factory
+Shops of the Grand Ave
+Plankinton Building
+161 W Wisconsin Ave, #2
+Milwaukee, WI 53204
+
+_ How long should payment take? _
+
+The turn-around time from invoicing [*Bridge] is a maximum of 2 weeks. Under special circumstances, it may be able to happen more quickly, but we can only commit to that with prior arrangement.
+
+_ Who should I first contact with invoicing questions? _
+
+The first person to contact with invoicing questions is Jenn Turner, who handles Accounts Payable for Bridge Foundry. Email is the preferred method of communication; her email address is jenn@schoolfactory.org. If you need to call her, her business phone number is 414.212.5215. (She's in U.S. Eastern Time, and will be most responsive during business hours there.)
+
+_ How should I escalate invoicing questions? _
+
+Every Preferred Vendor has a local [*Bridge] contact. (It's probably the person sending you this FAQ.) If you have a problem interacting with Bridge Foundry directly, please contact your local contact. (Their contact information is at the end of this form.)
+
+_ Who should I contact when I need to change the standard order? _
+
+When you need to change the standard order or discontinue your relationship with [*Bridge], get in touch with your local [*Bridge] contact. (Their contact information is at the end of this form.)
+
+_ Who's my local [*Bridge] contact? _
+
+[Local Contact Name]
+[Local Contact Email]
+[Local Contact Phone]
+Contact that person when you need to change the order, or if you're having a problem with Bridge Foundry. This person is your advocate inside of [*Bridge]
+
+_ Who's the Accounts Payable contact, again? _
+```
+Jenn Turner
+jenn@schoolfactory.org
+414.212.5215
+Bridge Foundry c/o School Factory
+Shops of the Grand Ave
+Plankinton Building
+161 W Wisconsin Ave, #2
+Milwaukee, WI 53204
+```
