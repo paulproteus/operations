@@ -5,9 +5,9 @@ Bridge Foundry is able to accept **tax-deductible donations** on behalf of Bridg
 - Typically, a sponsor asks for an invoice OR says that they will send a check (we'll invoice them just to streamline our process and be able to track who is actually doing what.)
 - A Bridge member or workshop organizer [submits an invoice](request-invoice.md) for the sponsor.
 - Upon receiving the Bridge Foundry invoice, the sponsor [submits the payment](submit-payment.md) to Bridge Foundry.
-- Bridge Foundry's bookkeeper adds the amount to the [Bridge or chapter fund](../financial-support/status.md).
+- Bridge Foundry's bookkeeper adds the amount to the [Bridge or chapter fund](../funding/status.md).
 - For information about how a Bridge member or organizer can withdraw funds, please see our instructions for [using funds](../using-funds).
-- School Factory will send a thank you letter with tax deduction info when payment is received.
+- School Factory will send a thank you letter with tax deduction info to sponsor when payment is received.
 
 ---
 ## Please note

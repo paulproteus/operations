@@ -11,7 +11,7 @@ The way Bridge Foundry and all the Bridges and their Chapters manage their funds
 ## Funding policies and status
 Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policies](funding/bridge-chapter-policies.md).)
 
-The up-to-date financial information for Bridge Foundry and each Bridge entity can found here: [funding status](funding/status.md).
+The up-to-date financial information for Bridge Foundry and each Bridge entity can be found here: [funding status](funding/status.md).
 
 ## For volunteers
 This section contains links to information about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources. Alternatively, you will learn about applying for a grant from Bridge Foundry.
@@ -25,7 +25,7 @@ This section contains links to information about establishing, tracking, and usi
 None or our organizations and initiatives could exist without the help of companies that sponsor our efforts and support us in our mission. In this section we provide links to information about:
 
 - How a volunteer can [request an invoice](/sponsorship/request-invoice.md) for a sponsor
-- Different ways in which companies can [send us tax-deductible donations](/sponsorship/send-donations.md)
+- Different ways in which companies can [send us tax-deductible donations](/sponsorship/submit-payment.md)
 - Where anyone can [verify our 501c3 status](/sponsorship/verify-501c3-status.md)
 
 ----

@@ -1,6 +1,6 @@
 
 # Submit payment
-There are three methods by which a sponsor may pay an invoice.
+There are three methods by which a sponsor may send money to a Bridge or chapter. Note that an [invoice](request-invoice.md) should also be submitted.
 
 ## Direct ACH Payment
 There will a "Pay Now" button on the invoice that is sent to the sponsor. If they would like to pay with a credit card, let your sponsor know they can select the "bank" payment option on the invoice when they receive it. They will need to have their bank routing and account information available. We are not charged a fee for this form of payment.
