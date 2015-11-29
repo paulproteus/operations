@@ -14,7 +14,7 @@ Status of each invoice submited by sponsors.
 ### Process timing
 Timing and schedules for processing all types of financial transactions.
 
-### *Bridge & chapter funds
+### Bridge & chapter funds
 Tabs with a running tally for each Bridge and each established chapter.
 
 ---

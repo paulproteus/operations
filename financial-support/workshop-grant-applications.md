@@ -5,12 +5,12 @@ If you are not a established chapter with [funds at hand](../funding/status.md) 
 **Important: Please follow instructions on how to [use funds](../using-funds) for information about how to submit receipts.**
 
 ## Who may request a grant
-* Any organizer who wants to hold a Bridge workshop that is in line with Bridge Foundry mission.  
+* Any organizer who wants to hold a Bridge workshop that supports the Bridge Foundry mission.
 * The organizer must be either a known and experienced organizer, or must be approved by a known chapter leader or experienced volunteer organizer.
 
 ## Standard criteria
 * budget is within normal parameters for the region
-* expenses are for normal recommended workshop things; see list of [allowed expenses](../using-funds/allowed-expenses.md)
+* expenses are for normal recommended workshop things; see list of [allowed expenses](../using-funds/workshop-expenses.md)
 
 ## Approval process
 Grant applications are evaluated within a calendar week of submission. If funds are available, first-time grant applications for Bridge workshops that meet standard criteria by an approved organizer are dispensed without further evaluation.

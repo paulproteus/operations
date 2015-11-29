@@ -1,6 +1,6 @@
 # Finances - DRAFT WORK IN PROGRESS
 
-Bridge Foundry and all its Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We empower people with technology through teaching, documentation and facilitating access, enlarging the community of people who give back and teach others.
+Bridge Foundry and all of the Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We empower people with technology through teaching and facilitating access, enlarging the community of people who give back and teach others.
 
 Bridge Foundry operates as a program of the [School Factory](http://schoolfactory.org), which is a 501c3 organization (giving us non-profit status in the USA).
 
@@ -11,10 +11,10 @@ The way Bridge Foundry and all the Bridges and their Chapters manage their funds
 ## Funding policies and status
 Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policies](funding/bridge-chapter-policies.md).)
 
-The up-to-date financial information for Bridge Foundry and each Bridge entity can be found here: [funding status](funding/status.md).
+The up-to-date financial information for Bridge Foundry and each Bridge entity can be found at [funding status](funding/status.md).
 
 ## For volunteers
-This section contains links to information about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources. Alternatively, you will learn about applying for a grant from Bridge Foundry.
+This section contains links to information about establishing, tracking, and using funds that you raise as your own Bridge organization or your own Bridge Chapter using Bridge Foundry's resources. Alternatively, you can learn about applying for a grant from Bridge Foundry.
 
 - Different ways Bridge Foundry funds are used to [financially support](financial-support) individual Bridges and Chapters initiatives, as well as single workshops
 - How anyone can [apply for a grant](financial-support/workshop-grant-applications.md) for a Bridge Foundry related event, whether or not they have a established local chapter
@@ -36,4 +36,4 @@ None or our organizations and initiatives could exist without the help of compan
 - Reach out to us on our mailing-list:
 https://groups.google.com/forum/#!forum/bridgefoundry
 
-- Email us at support@bridgefoundry.org
+- Email us at finance@bridgefoundry.org

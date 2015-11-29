@@ -1,6 +1,6 @@
 # Using funds
 
-Be sure to keep all receipts and invoices related to event expenses and make sure you only incur [allowed expenses](allowed-expenses.md).
+Be sure to keep all receipts and invoices related to event expenses and make sure you only incur [allowed expenses](workshop-expenses.md).
 
 ## General guidelines
 ### Bridges and chapters with current funding

@@ -1,6 +1,6 @@
 # Expense report
 
-Expense report submissions are preferably done via Expensify.
+Expense report submissions are preferably done via Expensify.  Our goal is to make this easy for volunteers.  If any of this presents a hardship, please [let us know](mailto:finance@bridgefoundry.org)!  We're always looking for ways to streamline our processes.
 
 ## Get Set Up On Expensify
 
@@ -29,8 +29,8 @@ When submitting reports, the following **must** be included to receive reimburse
 - For workshop expenses, include the date(s) of the workshop in the report name.
 - Select an expense category and a tag (your chapter name or general fund) for each individual expense. List specifics in the Comment field for expenses in the Other category.
 - All expenses must have receipts attached.
-- Expenses must be for a chapter or fund you are approved to submit expenses for, and fall into [allowed expense](allowed-expenses.md) categories.
-- You must have a bank account set up in the system.
+- Expenses must be for a chapter or fund you are approved to submit expenses for, and must follow our [allowed expense](../funding/bridge-chapter-policies.md#allowed-expenses) guidelines.
+- You must have a bank account set up with Expensify (or PayPal outside of the US).
 
 ## To submit expenses for reimbursement
 
@@ -45,7 +45,7 @@ When submitting reports, the following **must** be included to receive reimburse
 
 5. If you haven’t added a bank account yet when the report is approved, Expensify will send you an email asking you to add an account. You won’t get paid until you have added an account.
 
-6. **PLEASE NOTE** that if you DO NOT select the "Bridge Foundry" policy in the upper right hand corner of the report, it won't be submitted to us and we will not recevie notification that you've submitted a report.
+6. **PLEASE NOTE** that if you DO NOT select the "Bridge Foundry" policy in the upper right hand corner of the report, it won't be submitted to us and we will not receive notification that you've submitted a report.
 
 7. ACH payments will be processed on Wednesdays and will arrive in your bank account about 2 business days later. To prevent delay of your reimbursement, please ensure your bank account information is included on your login.
 

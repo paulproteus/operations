@@ -4,8 +4,8 @@
 
 Vendors can invoice Bridge Foundry directly by mailing the invoice to our Accounts Payable:
 ```
-Jenn Turner
-jenn@schoolfactory.org
+Diana Luepke
+finance@schoolfactory.org
 414.212.5215
 Bridge Foundry c/o School Factory
 Shops of the Grand Ave
@@ -14,11 +14,11 @@ Plankinton Building
 Milwaukee, WI 53204
 ```
 
-**Note: must reference the *Bridge chapter on the invoice.** Example: RailsBridge Boston, ClojureBridge San Francisco.
+**Note: must reference the Bridge chapter on the invoice.** Example: RailsBridge Boston, ClojureBridge San Francisco.
 
 ## Preferred vendors
 
-Use the FAQ below to kick off a relationship with a Preferred Vendor. Make sure to fill in the "Local *Bridge Contact" with your info before you send it to someone!
+Use the FAQ below to kick off a relationship with a Preferred Vendor. Make sure to fill in the "Local Bridge Contact" with your info before you send it to someone!
 
 ### [*Bridge] Preferred Vendor FAQs
 
@@ -71,8 +71,8 @@ Contact that person when you need to change the order, or if you're having a pro
 
 _Who's the Accounts Payable contact, again?_
 ```
-Jenn Turner
-jenn@schoolfactory.org
+Diana Luepke
+finance@schoolfactory.org
 414.212.5215
 Bridge Foundry c/o School Factory
 Shops of the Grand Ave
