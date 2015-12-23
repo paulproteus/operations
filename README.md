@@ -8,17 +8,17 @@ The Bridge Foundry work of collecting, tracking, distributing and reporting fund
 
 The way Bridge Foundry and all the Bridges and their Chapters manage their funds must be a process that is 100% transparent. Here is where you will find information about all of our financials and money management processes.
 
-## Funding policies and status
+## Bridge and Chapter Policies
 Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policies](bridge-chapter-policies.md).)
 
-The up-to-date financial information for Bridge Foundry and each Bridge entity can be found at [funding status](monitoring-your-funds.md).
+## How To
 
-## For Volunteers
 Bridge Foundry provides [financial support](financial-support) in several ways. This section contains links to information about establishing, tracking, and using funds that you raise or are raised by Bridge Foundry, which you can access by applying for a grant.  Learn how to:
 
 - [apply for a grant](financial-support/workshop-grant-applications.md) for a Bridge Foundry related event, whether or not you have an established local chapter
 - [establish a fund](sponsorship) as a new Bridge or as a new Chapter of a Bridge
 - [withdraw money](using-funds) for Bridge related expenses
+- [monitor your funds](monitoring-your-funds.md): the up-to-date financial information for Bridge Foundry and each Bridge entity that raises money.
 
 ### Sponsorship
 None of our organizations and initiatives could exist without the help of companies that sponsor our efforts and support us in our mission. In this section we provide links to information about:
