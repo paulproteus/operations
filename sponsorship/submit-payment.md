@@ -27,6 +27,6 @@ Checks are processed weekly.
 
 Paypal donations get processed on the first and third Friday of every month.
 
-Available funds will be noted in the [Master Accounting Spreasheet](../funding/status.md).
+Available funds will be noted in the [Master Accounting Spreasheet](../monitoring-your-funds.md).
 
 If a sponsor check or payment is not reflected in the recipient's account in enough time prior to an upcoming workshop, don’t worry! You may use funds from the Bridge Foundry general sponsorship fund to cover your expenses until we receive it. Contact us.
