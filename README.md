@@ -1,4 +1,4 @@
-# Finances - DRAFT WORK IN PROGRESS
+# Bridge Foundry Operations - DRAFT WORK IN PROGRESS
 
 Bridge Foundry and all of the Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We empower people with technology through teaching and facilitating access, enlarging the community of people who give back and teach others.
 
