@@ -10,4 +10,4 @@ We are able to create customized Paypal donation buttons that automatically earm
 ## Some Key Points
 - The donor can be directed to a page back on your site and that can be the home page or a thank you page. We're recommending the latter.
 - This does not replace the Invoice request process for larger corporate sponsors who would like a tax-deductible receipt.
-- Paypal takes 2.9% + $0.30 per transaction, so we still recommend larger donors [mail a check](submit-payment.md) or you [request an invoice](request-invoice.md) as explained on the [sponsorship] page.
+- Paypal takes 2.9% + $0.30 per transaction, so we still recommend larger donors [mail a check](submit-payment.md) or you [request an invoice](request-invoice.md) as explained on the [sponsorship](../sponsorship/) page.
