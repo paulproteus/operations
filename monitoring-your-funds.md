@@ -11,4 +11,4 @@ In this spreadsheet, some of the tabs you will find are:
 * *Bridge & chapter funds*: Tabs with a running tally for each Bridge and each established chapter.
 
 ### Quarterly Chapter Spreadsheet Audit
-During the first week of each quarter, the designated finance liaison from each chapter reviews their tab on the Master Financial Spreadsheet for Accuracy.
+During the first week of each quarter, the designated finance liaison from each chapter reviews their tab on the Master Financial Spreadsheet for accuracy.
