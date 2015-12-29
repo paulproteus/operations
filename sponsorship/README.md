@@ -13,6 +13,6 @@ Bridge Foundry is able to accept **tax-deductible donations** on behalf of Bridg
 ## Please note
 Please see the instructions on how to [request a paypal button](paypal-donations.md) for your website to collect small donations earmarked for your Chapter.
 
-Unfortunately, we cannot provide tax documentation for cash donations (including checks or gift cards given) directly to an individual. They need to come in to the 501(c)(3) via check, ACH, or paypal. Otherwise, the money isn't actually running through our 501(c)(3) and it's therefore not tax-deductible.
+Unfortunately, we cannot provide tax documentation for cash donations (including checks or gift cards) given directly to an individual or Chapter. Funds need to come in to the 501(c)(3) via check, ACH, or paypal. Otherwise, the donation isn't actually running through our 501(c)(3) and is therefore not tax-deductible.
 
 In-kind donations of actual items can be logged in a form at [http://schoolfactory.org/donate](http://schoolfactory.org/donate). Submitting that form will trigger our finance person to send the sponsor an acknowledgement letter usable for tax purposes.
