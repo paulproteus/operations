@@ -6,7 +6,7 @@ to someone who is a Chapter or Bridge leader or reach out the the [finance commi
 
 * Installfest refreshments/pizza
 * Breakfast/lunch
-* Babysitting
+* Babysitting/Childcare/Playcare
 * After-party (also could be volunteer drink tickets)
 * USB drives
 * Nametags, pens, stickers and misc supplies
