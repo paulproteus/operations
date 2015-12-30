@@ -10,7 +10,9 @@ If you are not a established chapter with [funds at hand](../monitoring-your-fun
 
 ## Standard criteria
 * budget is within normal parameters for the region
-* expenses are for normal recommended workshop things; see list of [allowed expenses](../using-funds/workshop-expenses.md)
+* expenses are for normal recommended workshop things; see list of [typical expenses](../using-funds/workshop-expenses.md)
+
+We welcome innovative ideas. Don't be deterred if your plan is not typical -- all of our work started with a-typical ideas.
 
 ## Approval process
 Grant applications are evaluated within a calendar week of submission. If funds are available, first-time grant applications for Bridge workshops that meet standard criteria by an approved organizer are dispensed without further evaluation.
