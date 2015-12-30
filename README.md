@@ -35,4 +35,4 @@ None of our organizations and initiatives could exist without the help of compan
 - Reach out to us on our mailing-list:
 https://groups.google.com/forum/#!forum/bridgefoundry
 
-- Email us at finance@bridgefoundry.org
+- Email us at support@bridgefoundry.org
