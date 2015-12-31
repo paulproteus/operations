@@ -13,7 +13,7 @@ Shops of the Grand Ave
 161 W Wisconsin Ave, #2
 Milwaukee, WI 53203
 ```
-**Make sure to list the Bridge and chapter in the memo so funds are allocated correctly!** Examples: RailsBridge Boston-MA, GoBridge Portland-OR.
+**Make sure to list Bridge Foundry (or optionally a specific Bridge or Chapter) in the memo so funds are allocated correctly!** Examples: RailsBridge Boston-MA, GoBridge Portland-OR.
 
 ## Paypal
 Paypal is an option if sponsors prefer (there are fees with paypal 2.7-3.1% + $.30 per transaction.)
