@@ -4,7 +4,7 @@ In the [Master Accounting Bridge Foundry Financials](http://bit.ly/bridges-finan
 
 In this spreadsheet, some of the tabs you will find are:
 
-* *Org overview*: A running tally of money in/money/out and balance, as well as contact info, for each Bridge entity.
+* *Org overview*: A running tally of money in/money out and balance, as well as contact info, for each Bridge entity.
 * *Audits*: Audit information, how it happens, and dates of audits performed.
 * *Invoice status*: Status of each invoice submitted by sponsors.
 * *Process timing*: Timing and schedules for processing all types of financial transactions and when this document is updated, which differs depending on the transaction.
