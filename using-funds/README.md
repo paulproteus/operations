@@ -27,7 +27,7 @@ You can request reimbursement for any and all expenses related to a workshop, in
 
 Whether funds for a workshop were obtained via a sponsorship or through a Bridge Foundry grant, or if the funds have already been disbursed or you need a reimbursement, receipts must be submitted within 7 days of the workshop.
 
-**Note: receipts need not be submitted if an invoice from Bridge Foundry to a sponsor was not submitted for payment.**
+**Note: receipts need not be submitted if a sponsor pays for something directly.** We track receipts for all money that is donated to Bridge Foundry and then spent for our programs.
 
 There are two ways to submit receipts:
 - submit an [expense report](expense-report.md)
