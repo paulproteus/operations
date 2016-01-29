@@ -16,6 +16,8 @@ Milwaukee, WI 53204
 
 ## Preferred vendors
 
+We prefer to support local, independent businesses and many companies will also extend discounts to non-profit organizations.  Additionally, we can reduce the burden on future volunteers by establishing relationships, standard pricing and common menu choices.
+
 Use the FAQ below to kick off a relationship with a Preferred Vendor. Make sure to fill in the "Local Bridge Contact" with your info before you send it to someone!
 
 ### [*Bridge] Preferred Vendor FAQs
