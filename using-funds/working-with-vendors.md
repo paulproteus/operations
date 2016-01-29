@@ -6,11 +6,9 @@ Vendors can invoice Bridge Foundry directly by mailing the invoice to our Accoun
 ```
 Diana Luepke
 finance@schoolfactory.org
-414.212.5215
+262-607-4005
 Bridge Foundry c/o School Factory
-Shops of the Grand Ave
-Plankinton Building
-161 W Wisconsin Ave, #2
+117 W. Walker St. #10
 Milwaukee, WI 53204
 ```
 
@@ -34,25 +32,23 @@ We would like to make the experience for [*Bridge] Preferred Vendors as seamless
 
 _How does [*Bridge] pay for the workshops' food and childcare?_
 
-Our parent organization is called Bridge Foundry, and is a 501c3 non-profit organization. Bridge Foundry pays expenses invoiced to [*Bridge]. The best way to invoice [*Bridge] is to send the invoice directly to Bridge Foundry.
+Our parent organization is called Bridge Foundry, and is part of a 501c3 non-profit organization. Bridge Foundry pays expenses invoiced to [*Bridge]. The best way to invoice [*Bridge] is to send the invoice directly to Bridge Foundry.
 
 Be sure to reference the [*Bridge] chapter on the invoice (such as [*Bridge] Boston or [*Bridge] Boulder).
 
 You can mail an invoice to:
 
 Bridge Foundry c/o School Factory
-Shops of the Grand Ave
-Plankinton Building
-161 W Wisconsin Ave, #2
+117 W. Walker St. #10
 Milwaukee, WI 53204
 
 _How long should payment take?_
 
-The turn-around time from invoicing [*Bridge] is a maximum of 2 weeks. Under special circumstances, it may be able to happen more quickly, but we can only commit to that with prior arrangement.
+The turn-around time from invoicing [*Bridge] is a maximum of 3 weeks. Under special circumstances, it may be able to happen more quickly, but we can only commit to that with prior arrangement.
 
 _Who should I first contact with invoicing questions?_
 
-The first person to contact with invoicing questions is Jenn Turner, who handles Accounts Payable for Bridge Foundry. Email is the preferred method of communication; her email address is jenn@schoolfactory.org. If you need to call her, her business phone number is 414.212.5215. (She's in U.S. Eastern Time, and will be most responsive during business hours there.)
+The first person to contact with invoicing questions is Diana Luepke, who handles Accounts Payable for Bridge Foundry. Email is the preferred method of communication; her email address is diana@schoolfactory.org. If you need to call her, her business phone number is 262-607-4005. (She's in U.S. Central Time, and will be most responsive during business hours there.)
 
 _How should I escalate invoicing questions?_
 
@@ -73,10 +69,8 @@ _Who's the Accounts Payable contact, again?_
 ```
 Diana Luepke
 finance@schoolfactory.org
-414.212.5215
+262-607-4005
 Bridge Foundry c/o School Factory
-Shops of the Grand Ave
-Plankinton Building
-161 W Wisconsin Ave, #2
+117. W. Walker St. #10
 Milwaukee, WI 53204
 ```
