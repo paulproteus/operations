@@ -17,7 +17,7 @@ We welcome innovative ideas. Don't be deterred if your plan is not typical -- al
 ## Approval process
 Grant applications are evaluated within a calendar week of submission. If funds are available, first-time grant applications for Bridge workshops that meet standard criteria by an approved organizer are dispensed without further evaluation.
 
-The following process guides our evaluation if there are more applications in a given week than we have available funds: If grant applications exceed current funding, the Bridge Foundry program director will assess impact and make a decision or raise additional funds to cover all applications.
+If grant applications exceed current funding, the Bridge Foundry program director will assess impact and make a decision or raise additional funds to cover all applications.
 
 ## Post-Event
 
