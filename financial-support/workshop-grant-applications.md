@@ -1,6 +1,6 @@
 # Workshop Grant Applications
 
-If you are not a established chapter with [funds at hand](../monitoring-your-funds.md) or else have not found a sponsor to cover your workshop expenses, Bridge Foundry is committed to supporting you in putting on your workshop, so you may [apply for a grant](https://docs.google.com/a/ultrasaurus.com/forms/d/1npx6D7iFl6yx6kBVlYTOG1-PiWMsDiTx_TQWNri1WIk/viewform). **As soon as you THINK you MAY need funds, please apply!** Since some parts of the funding process can take at least a week, it's better to start working on funding earlier in your event planning than in the last few weeks.
+If you are not an established chapter with [funds at hand](../monitoring-your-funds.md) or else have not found a sponsor to cover your workshop expenses, Bridge Foundry is committed to supporting you in putting on your workshop, so you may [apply for a grant](https://docs.google.com/a/ultrasaurus.com/forms/d/1npx6D7iFl6yx6kBVlYTOG1-PiWMsDiTx_TQWNri1WIk/viewform). **As soon as you THINK you MAY need funds, please apply!** Since some parts of the funding process can take at least a week, it's better to start working on funding earlier in your event planning than in the last few weeks.
 
 **Important: Please follow instructions on how to [use funds](../using-funds) for information about how to submit receipts.**
 
