@@ -47,7 +47,7 @@ When submitting reports, the following **must** be included to receive reimburse
 
 6. **PLEASE NOTE** that if you DO NOT select the "Bridge Foundry" policy in the upper right hand corner of the report, it won't be submitted to us and we will not receive notification that you've submitted a report.
 
-7. ACH payments will be processed on Wednesdays and will arrive in your bank account about 2 business days later. To prevent delay of your reimbursement, please ensure your bank account information is included on your login.
+7. ACH payments will be processed on Wednesdays and will arrive in your bank account about one week later. To prevent delay of your reimbursement, please ensure your bank account information is included on your login.
 
 
 ## International Payments
