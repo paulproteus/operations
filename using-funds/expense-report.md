@@ -1,4 +1,4 @@
-# Expense report
+# Expense Report
 
 Expense report submissions are preferably done via Expensify.  Our goal is to make this easy for volunteers.  If any of this presents a hardship, please [let us know](mailto:finance@bridgefoundry.org)!  We're always looking for ways to streamline our processes.
 
@@ -32,7 +32,7 @@ When submitting reports, the following **must** be included to receive reimburse
 - Expenses must be for a chapter or fund you are approved to submit expenses for, and must follow our [allowed expense](../bridge-chapter-policies.md#allowed-expenses) guidelines.
 - You must have a bank account set up with Expensify (or PayPal outside of the US).
 
-## To submit expenses for reimbursement
+## To Submit Expenses for Reimbursement
 
 1. Create a new report and add all expenses to be reimbursed, following all the guidelines under “requirements” above. See examples in screen shot below:
 ![](https://lh3.googleusercontent.com/rRTZcD2dWM6CwDQGjCKGJM_AXwfBBWmfYcP87CJze6wjjLEGfIWSmSoy9YoYNkIpPh9a7BeHf37X1Eqne65WWhE-XbNXt3SJBoLTpJSMR2lYgEk_8aIYCaR-eqiCiMdD2gAGkoM)
@@ -49,6 +49,13 @@ When submitting reports, the following **must** be included to receive reimburse
 
 7. ACH payments will be processed on Wednesdays and will arrive in your bank account about one week later. To prevent delay of your reimbursement, please ensure your bank account information is included on your login.
 
+### To Submit a Report to Reimburse Someone Else
+
+Since ACH is the fastest way to get reimbursed via Expensify's secure system, we encourage each volunteer to submit their own reports and bank information. On the rare occasion you need to submit a reimbursement for someone else on your organizing team, please do the following (note that this may slow reimbursement down since we are goign to be working outside Expensify): 
+
+1. Submit the report in Expensify following the instructions above, so the receipts are all in one place
+2. If the reimbursement should go to someone else, please include their name in the report name
+3. Make a comment at the bottom of the report with the name and postal address of the volunteer who should be sent a check. 
 
 ## International Payments
 
