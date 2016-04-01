@@ -6,7 +6,19 @@ Bridge Foundry operates as a program of the [School Factory](http://schoolfactor
 
 The Bridge Foundry work of collecting, tracking, distributing and reporting funds for all Bridges in a tax responsible way is made possible thanks to a paid part-time Bridge Foundry employee. School Factory manages our federal reporting and other administrative overhead such as reimbursements and expense tracking.
 
-The way Bridge Foundry and all the Bridges and their Chapters manage their funds must be a process that is 100% transparent. Here is where you will find information about all of our financials and money management processes.
+Bridge Foundry volunteers and staff do work to support all of the Bridges and other programs.  When we were still RailsBridge, Sarah Mei and Sarah Allen had a guiding principle for structuring the organization: “let nothing stand in the way of making a workshop happen”  (if there is someone willing to lead it).  With a much larger number of programs with a diverse and distributed community of volunteers, we've elaborated on the operational goals of the organization:
+
+* **Empower Individual Leaders**
+  * Provide reliable, streamlined financial processing
+* **Connect people in the community** who want to help
+  * Businesses that want to fund a workshop
+  * Volunteers who want to teach or start new initiatives in support of our mission
+* **Provide resources that facilitate workshops**
+  * Curriculum, cookbook, code-of-conduct
+* **Support the growth of member organizations**
+  * Example processes, centralized resources where helpful
+
+Bridge Foundry and all of the Bridges and their Chapters manage their funds with processes that are 100% transparent.  Here is where you will find information about all of our financials and money management processes, along with operational policies.
 
 ## Bridge and Chapter Policies
 Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policies](bridge-chapter-policies.md).)
