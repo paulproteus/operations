@@ -25,7 +25,9 @@ Each Bridge and each Bridge Chapter maintains full autonomy over the funds they 
 
 ## How To
 
-Bridge Foundry provides [financial support](financial-support) in several ways. This section contains links to information about establishing, tracking, and using funds that you raise or are raised by Bridge Foundry, which you can access by applying for a grant.  Learn how to:
+Bridge Foundry provides [financial support](financial-support) in several ways. Individual volunteers or teams typically do their own fundraising for local initiatives and take advantage of Bridge Foundry 501c3 status and support systems. We do central fundraising, but often have those funds earmarked for specific purposes, so please let us know if you need funding _in advance_.
+
+This section contains links to information about establishing, tracking, and using funds that you raise or are raised by Bridge Foundry, which you can access by applying for a grant.  Learn how to:
 
 - [apply for a grant](financial-support/workshop-grant-applications.md) for a Bridge Foundry related event, whether or not you have an established local chapter
 - [establish a fund](sponsorship) as a new Bridge or as a new Chapter of a Bridge
