@@ -25,10 +25,11 @@ Once you receive your card:
 - Contact finance@bridgefoundry.org to activate the card
 - You will be sent a pin and asked to do a small test transaction
 - We will transfer funds to your card upon request to finance@bridgefoundry.org, as long as you have enough funds for your chapter. Transfers are subject to a one week bank transfer delay, so please plan ahead!
+- You can check your account balance by logging in here: https://ch.pexcard.com/  (The balance on the spreadsheet reflects total available funds, not what is on your pex card. You must make a request for us to transfer funds to pex.)
 
 ---
 ## Please note
 
-If your chapter has received any donations into the Bridge Foundry 501(c)(3), those funds are YOURS and available to you. However, this card is a debit card, and we want to protect you from loss or theft. Regardless of your balance, it is advised that you only request what you need.
+If your chapter has received any donations into Bridge Foundry, those funds are YOURS and available to you. However, this card is a debit card, and we want to protect you from loss or theft. Regardless of your balance, it is advised that you only request what you need. 
 
 Failure to submit an expense report within 7 days of a workshop or any misuse of funds may result in the revocation of PEX Card privileges.  
