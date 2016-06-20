@@ -23,6 +23,12 @@ Bridge Foundry and all of the Bridges and their Chapters manage their funds with
 ## Bridge and Chapter Policies
 Each Bridge and each Bridge Chapter maintains full autonomy over the funds they raise (more detail on [Bridge & Chapter Policies](bridge-chapter-policies.md).)
 
+It is important to note that if you're just starting out a new workshop, do NOT
+contact Bridge Foundry. Your first point of contact should be the Bridge
+leader(s). If you have questions about fundraising or budgeting for your
+workshop, your Bridge leader(s) will point you in the right direction to get
+them answered.
+
 ## How To
 
 Bridge Foundry provides [financial support](financial-support) in several ways. Individual volunteers or teams typically do their own fundraising for local initiatives and take advantage of Bridge Foundry 501c3 status and support systems. We do central fundraising, but often have those funds earmarked for specific purposes, so please let us know if you need funding _in advance_.
