@@ -27,10 +27,18 @@ You can request reimbursement for any and all expenses related to a workshop, in
 
 Whether funds for a workshop were obtained via a sponsorship or through a Bridge Foundry grant, or if the funds have already been disbursed or you need a reimbursement, receipts must be submitted within 7 days of the workshop.
 
+There are some important guidelines for you to keep in mind as you get and save receipts:
+
+1. Save and submit **itemized receipts**. If you also have a copy that shows the tip amount paid, submit both versions together.
+
+2. Receipts should indicate that **payment was received**. So an invoice that shows an amount due doesn't work.
+
+3. For playcare/childcare (and any other expenses where you might not automatically receive a receipt), we do **need a receipt from the service provider**. Bring a copy of [this sheet] (https://drive.google.com/file/d/0ByFHpp-IkBaFbnBZTndCWTktcmc/view?usp=sharing) with you to the workshop in case any of your service providers don't have a receipt format they use and ask them to fill out a section for you. 
+
 **Note: receipts need not be submitted if a sponsor pays for something directly.** We track receipts for all money that is donated to Bridge Foundry and then spent for our programs.
 
 There are two ways to submit receipts:
 - submit an [expense report](expense-report.md)
 - send receipts via email to finance@bridgefoundry.org. Include the date of the workshop in your email.
 
-The receipts are not only for our collective records, but are required for tax purposes, ensuring that we can maintain our 501(c)(3) status.
+The receipts and the above requirements are not only for our collective records, but are required for tax purposes, ensuring that we can maintain our 501(c)(3) status. If you have questions or run into challenges, just let us know by contacting finance@bridgefoundry.org.
