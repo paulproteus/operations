@@ -5,11 +5,11 @@
 Vendors can invoice Bridge Foundry directly by mailing the invoice to our Accounts Payable:
 ```
 Diana Luepke
-finance@schoolfactory.org
+finance@bridgefoundry.org
 262-607-4005
-Bridge Foundry c/o School Factory
-117 W. Walker St. #10
-Milwaukee, WI 53204
+Bridge Foundry
+606 E Juneau Ave #511398
+Milwaukee, WI 53202
 ```
 
 **Note: must reference the Bridge chapter on the invoice.** Example: RailsBridge Boston, ClojureBridge San Francisco.
@@ -40,9 +40,9 @@ Be sure to reference the [*Bridge] chapter on the invoice (such as [*Bridge] Bos
 
 You can mail an invoice to:
 
-Bridge Foundry c/o School Factory
-117 W. Walker St. #10
-Milwaukee, WI 53204
+Bridge Foundry
+606 E Juneau Ave #511398
+Milwaukee, WI 53202
 
 _How long should payment take?_
 
@@ -70,9 +70,8 @@ Contact that person when you need to change the order, or if you're having a pro
 _Who's the Accounts Payable contact, again?_
 ```
 Diana Luepke
-finance@schoolfactory.org
+finance@bridgefoundry.org
 262-607-4005
-Bridge Foundry c/o School Factory
-117. W. Walker St. #10
-Milwaukee, WI 53204
-```
+Bridge Foundry
+606 E Juneau Ave #511398
+Milwaukee, WI 53202```
