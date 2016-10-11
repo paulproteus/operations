@@ -9,8 +9,8 @@ There will be a "Pay Now" button on invoices sent to sponsors. If they would lik
 Make checks out to **Bridge Foundry** and mail to the address below. We are not charged a fee for this form of payment. Checks should be sent to:
 ```
 Bridge Foundry
-117 W. Walker St. #10
-Milwaukee, WI 53204
+606 E Juneau Ave #511398
+Milwaukee, WI 53202
 ```
 **Make sure to list Bridge Foundry General Fund (or optionally a specific Bridge or Chapter) in the memo so funds are allocated correctly!** Examples: RailsBridge Boston-MA, GoBridge Portland-OR. This is especially important if an invoice was not sent for some reason.
 
