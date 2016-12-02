@@ -6,14 +6,19 @@ Bridge Foundry Mission: Empower people with technology through teaching and faci
 
 ## Definitions
 * Bridge Foundry (“Foundry”) is the support team for all the Bridges and their Chapters and free-form volunteer efforts.  The Foundry is led by a Program Director and representative board.
-* Bridge, in this document refers to a self-governing Bridge with its own board.  Each bridge focuses on a specific technology, or set of technologies, and shares open source curriculum and program materials across geographies.  
-* Chapter: a regional, technology-specific group that has repeat events.  Each Chapter belongs to a Bridge.
+* Bridge, in this document refers to a self-governing Bridge with its own board.  Each bridge focuses on a specific technology, or set of technologies, and shares open source curriculum and program materials across geographies. Bridge leaders may add new Chapters and Chapter leaders. Sometimes people organize a single event or initiative for a new technology, independent of a Bridge and that is fine.
+* Chapter: a regional, technology-specific group which has held at least one event.  Each Chapter belongs to a Bridge.  An active Chapter has one or more leaders, who might do fundraising and can approve expenses if the Chapter has a budget. Chapter leaders can also have the ability to approve or edit events for their chapter and add/remove leaders for their chapter.
 
 ## Operations
 
 Bridge Foundry is run by a small operations team, including a part time Operations Manager (operations@bridgefoundry.org) with accounting, legal, and advisory support from School Factory.
 
 New Bridges can be created by anyone who wants to offer programs that are aligned with our mission.  For more detail see [how to make a bridge](http://bridgefoundry.org/doc/bridge-building.html).
+
+## Event Organizing
+
+We have an open source event registration system, [Bridge Troll](https://www.bridgetroll.org/), which has been developed by RailsBridge volunteers. While many leaders use Meetup or EventBrite to organize events, we developed Bridge Troll as a way to effectively manage separate lists of volunteers and students, allowing for ongoing profiles and tracking of history, which is not well-supported by other online tools.  We strongly encourage all volunteers who are organizing events to use Bridge Troll.  Please file an [issue](https://github.com/railsbridge/bridge_troll/issues) or join the [mailing list](https://groups.google.com/forum/#!forum/bridge-troll) if you have feedback.  To learn more about it, please check out the [wiki](https://github.com/railsbridge/bridge_troll/wiki).
+
 
 ## Finance
 ### Directing Funds
