@@ -10,7 +10,7 @@ Make checks out to **Bridge Foundry** and mail to the address below. We are not 
 ```
 Bridge Foundry
 606 E Juneau Ave #511398
-Milwaukee, WI 53202
+Milwaukee, WI 53203
 ```
 **Make sure to list Bridge Foundry General Fund (or optionally a specific Bridge or Chapter) in the memo so funds are allocated correctly!** Examples: RailsBridge Boston-MA, GoBridge Portland-OR. This is especially important if an invoice was not sent for some reason.
 
