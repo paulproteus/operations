@@ -9,7 +9,7 @@ finance@bridgefoundry.org
 262-607-4005
 Bridge Foundry
 606 E Juneau Ave #511398
-Milwaukee, WI 53202
+Milwaukee, WI 53203
 ```
 
 **Note: must reference the Bridge chapter on the invoice.** Example: RailsBridge Boston, ClojureBridge San Francisco.
@@ -74,4 +74,4 @@ finance@bridgefoundry.org
 262-607-4005
 Bridge Foundry
 606 E Juneau Ave #511398
-Milwaukee, WI 53202```
+Milwaukee, WI 53203```
