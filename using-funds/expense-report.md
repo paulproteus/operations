@@ -29,6 +29,7 @@ When submitting reports, the following **must** be included to receive reimburse
 - For workshop expenses, include the date(s) of the workshop in the report name.
 - Select an expense category and a tag (your chapter name or general fund) for each individual expense. List specifics in the Comment field for expenses in the Other category.
 - All expenses must have itemized receipts attached. (Include both itemized receipt and payment receipt if tips included in final total. Use our [template] (https://drive.google.com/file/d/0ByFHpp-IkBaFbnBZTndCWTktcmc/view?usp=sharing) for on-site service providers if they don't provide receipts.)
+- Invoices that don't list an amount paid do not count as receipts. We need to see that you paid the invoice. 
 - Expenses must be for a chapter or fund you are approved to submit expenses for, and must follow our [allowed expense](../bridge-chapter-policies.md#allowed-expenses) guidelines.
 - You must have a bank account set up with Expensify (or PayPal outside of the US).
 
