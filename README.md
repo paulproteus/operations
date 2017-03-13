@@ -1,6 +1,14 @@
-# Bridge Foundry Operations
+# Bridge Foundry 
 
-Bridge Foundry and all of the Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We empower people with technology through teaching and facilitating access, enlarging the community of people who give back and teach others.
+Bridge Foundry and all of the Bridges is one whole organization dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation.  To learn more about who we are and what we do, see our [website](http://bridgefoundry.org/). This guide documents how we operate, providing a resource for how we work together. 
+
+## Mission
+
+We empower people with technology through teaching and facilitating access,
+enlarging the community of people who give back and teach others.
+
+
+## Operations
 
 Bridge Foundry operates as a program of the [School Factory](http://schoolfactory.org), which is a 501c3 organization (giving us non-profit status in the USA).
 
