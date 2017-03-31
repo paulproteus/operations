@@ -1,6 +1,6 @@
 # Monitoring Your Funds
 
-In the [Master Accounting Bridge Foundry Financials](http://bit.ly/bridges-financials) we track financial information for Bridge Foundry and all of its sub-organizations. This is where you find all of the latest information about money that comes in and money that goes out.  In general, this should be current for anything that is more than 2 weeks ago (see the process timing tab for more detail on when updates happen).
+In the [Master Accounting Bridge Foundry Financials](http://bit.ly/bridges-financials) we track financial information for Bridge Foundry and all of its sub-organizations. This is where you find all of the latest information about money that comes in and money that goes out.  In general, this should be current for anything that is more than 2 weeks ago (see the [process timing tab](https://docs.google.com/spreadsheets/d/10TzUid02hIkZTCjwKLI-c-OX5OeB2yergr71eHCc3uc/edit#gid=140965982) for more detail on when updates happen).
 
 In this spreadsheet, some of the tabs you will find are:
 
