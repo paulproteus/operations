@@ -23,9 +23,11 @@ We use Flipcause for crowdfunding campaigns. If you are interested in running a 
 
 Once we receive the completed [Flipcause Integration Request Form](https://docs.google.com/forms/d/e/1FAIpQLScgvgqrVn1WjquS1XDYGRWdVA2yVXCkbr7O8zOFczYhA1rUSw/viewform), we will follow up with you to get this additional information. 
 
-Since crowdfunding campaigns have the most moving parts to setup and test, please allow at least 2 weeks to get the campaign ready for launch after you have submitted the request form. We may also need to email back and forth a few times to clarify some of the reward value details, so your responsiveness will make a difference in how soon the campaign can launch.
+Before you publicize your page, please reach out to us to test it. There are a lot of small pieces of text that are in the email response and social sharing, that are hard to review until it is live. Just send a note to [finance@bridgefoundry.org](mailto:finance@bridgefoundry.org) and we can schedule time to work together on it. We want it to work optimally for you! 
 
-We will follow up with you within a week of receiving the integration request. Feel free to email [finance@bridgefoundry.org](mailto:finance@bridgefoundry.org) if you don’t hear back or have questions.
+Since crowdfunding campaigns have the most moving parts to setup and test, please allow at least 2 weeks to get the campaign ready for launch after you have submitted the request form. We may also need to email back and forth a few times to clarify some of the reward value details, so your responsiveness will make a difference in how quickly the campaign can launch.
+
+We will follow up with you within a week of receiving the integration request. Feel free to email [finance@bridgefoundry.org](mailto:finance@bridgefoundry.org) if you don’t receive a response within a couple of days or have questions.
 
 ## Paypal Donations 
 
