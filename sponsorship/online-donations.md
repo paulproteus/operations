@@ -5,7 +5,7 @@ If you want to accept electronic donations online, we provide a number of option
 - Embed a button on your website that pops open the form
 - Request a hosted donations page if you don’t have your own website
 
-For any of these options, complete the [Flipcause Integration Request Form](https://docs.google.com/forms/d/e/1FAIpQLScgvgqrVn1WjquS1XDYGRWdVA2yVXCkbr7O8zOFczYhA1rUSw/viewform) and we will send you the code to embed in your website and/or the link for the hosted page.
+For any of these options, complete the [Flipcause Integration Request Form](https://docs.google.com/forms/d/e/1FAIpQLScgvgqrVn1WjquS1XDYGRWdVA2yVXCkbr7O8zOFczYhA1rUSw/viewform) and we will send you the code to embed in your own https-enabled website (not available for custom domains via github pages, but free on Firebase hosting) and/or the link for the hosted page.
 
 Flipcause charges a fee of 4.9% + 30 cents per transaction, which they allow the donor to pay. Most donors choose to pay the fee, but if they decline to do so the amount of money you receive will be lessened by that amount. For this reason, we still recommend larger donors [mail a check](submit-payment.md) or you [request an invoice](request-invoice.md) as explained on the [sponsorship](../sponsorship/) page, and ask them to pay via check or ACH. 
 
