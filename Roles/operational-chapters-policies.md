@@ -25,7 +25,7 @@ As long as your chapter remains active, Bridge Foundry will:
 * Review contracts and agreements you want Bridge Foundry to enter for your chapter, determine whether it is appropriate for the organization to make the agreement, and handle signing if so.
 * Let you know if any of these methods of support change.
 
-## Chapter Leader Responsibilities
+## Chapter Leader's Responsibilities
 ### Leadership & communications
 By signing the Volunteer Agreement, Chapter Leaders agree to:
 * Serve as a chapter leader for the next year (365 days after the signing of this agreement).
