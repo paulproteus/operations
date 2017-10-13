@@ -1,4 +1,4 @@
-# Operational Programs: Policies
+# Operational Programs: Program Leader Policies
 
 Operational Programs are groups that hold activities on a regular basis and want to operate as a legal part of the Bridge Foundry nonprofit organization. This page outlines the support Bridge Foundry agrees to provide to operational programs, and what the program leader agrees to do in return. 
 
