@@ -1,4 +1,4 @@
-# Operational Chapters: Policies
+# Operational Chapters: Chapter Leader Policies
 
 Operational Chapters are groups that hold workshops on a regular basis and want to operate as a legal part of the Bridge Foundry nonprofit organization. This page outlines the support Bridge Foundry agrees to provide to operational chapters, and what the chapter leader agrees to do in return.
 
