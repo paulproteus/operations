@@ -8,10 +8,10 @@ When Operational Chapters form, their leader(s) commit to a one year term, with 
 Note: When a Chapter leader steps down, if a new leader is not identified, the chapter becomes a Community Chapter, in which case volunteers are still able to hold workshops and apply for grants but the chapter is not considered a legal part of Bridge Foundry, Inc.
 
 ## Bridge Foundry's Responsibilities
-As long as your chapter remains active, Bridge Foundry will:
+As long as your chapter remains active and in compliance with policies, Bridge Foundry will:
 * Provide infrastructure for accepting online donations and send gift receipts 
   * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
-* Hold funds raised for the chapter in reserve for your chapter’s sole use, as long as your chapter remains active and in compliance with our policies
+* Hold funds raised for the chapter in reserve for your chapter’s sole use
   * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
 * Track financial transactions for your chapter in a location you can access to view history and chapter balance (currently via public spreadsheet)
 * Make it easy for your chapter leaders to spend funds available to it by:
