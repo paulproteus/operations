@@ -1,4 +1,6 @@
-Operational Chapters are groups that hold workshops on a regular basis and want to operate as a legal part of the Bridge Foundry non profit organization. This document outlines the support Bridge Foundry agrees to provide to operational chapters, and what the chapter leader agrees to do in return.
+# Operational Chapters: Policies
+
+Operational Chapters are groups that hold workshops on a regular basis and want to operate as a legal part of the Bridge Foundry nonprofit organization. This page outlines the support Bridge Foundry agrees to provide to operational chapters, and what the chapter leader agrees to do in return.
 
 ## Term of Leadership
 When Operational Chapters form, their leader(s) commit to a one year term, with the understanding that you can renew as many times as you’d like. Bridge Foundry will check in with you at the end of the yearlong period to confirm who will be the leader(s) for the next year, and complete an agreement with any new leader(s). 
@@ -30,7 +32,7 @@ By signing the Volunteer Agreement, Chapter Leaders agree to:
 * Meet with their Bridge leader and/or a volunteer mentor once a year to share knowledge about successes and challenges.
 * Respond to Bridge Foundry’s inquiry after a year to let us know who will be leading the chapter next year. If they don’t respond, Bridge Foundry will convert the chapter to a Community Chapter.
 * Sign an agreement as a volunteer fundraiser if they want to solicit donations for their chapter (apart from having a donate button embedded on the chapter’s website).
-* Inform Bridge Foundry of any incidents of injury, harassment, or code of conduct breaches at workshops or events via the reporting form. Talk with a Bridge Foundry leader to answer questions about the incident if needed.
+* Inform Bridge Foundry of any incidents of injury, harassment, or code of conduct breaches at workshops or events via the [Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSe19euBU-pMEDpJEzyvQF32ob0JzvA1dMnDI3uW2FluNMrOIQ/viewform?usp=sf_link). Talk with a Bridge Foundry leader to answer questions about the incident if needed.
 * Contact Bridge Foundry if their chapter needs something that involves signing a contract of any kind. Chapter Leaders do not have authority to bind the organization into contracts or agreements. 
 
 ### Spending money
