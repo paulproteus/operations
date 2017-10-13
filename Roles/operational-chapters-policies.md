@@ -11,7 +11,7 @@ Note: When a Chapter leader steps down, if a new leader is not identified, the c
 As long as your chapter remains active, Bridge Foundry will:
 * Provide infrastructure for accepting online donations and send gift receipts 
   * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
-* Hold funds raised by Volunteer Fundraisers for the chapter in reserve for your chapter’s sole use.
+* Hold funds raised by Volunteer Fundraisers for the chapter in reserve for your chapter’s sole use, as long as your chapter remains active and in compliance with our policies
   * If the chapter reverts to a Community Chapter, we reserve the right to allocate the funds elsewhere. AND, we will check in with you before that change to understand if you have workshops planned as a Community Chapter so we can use the remaining funds for a grant to the chapter. 
 * Track financial transactions for your chapter in a location you can access to view history and chapter balance (currently via public spreadsheet)
 * Make it easy for your chapter leaders to spend funds available to it by:
@@ -23,7 +23,7 @@ As long as your chapter remains active, Bridge Foundry will:
 * Provide guidance and advice as desired for developing your events and building your community
 * Provide guidance and support in situations where someone breaks the code of conduct or you run into other challenges at a workshop
 * Review contracts and agreements you want Bridge Foundry to enter for your chapter, determine whether it is appropriate for the organization to make the agreement, and handle signing if so.
-* Let you know if any of these methods of support change. (Updates we send you count as amendments to this agreement.)
+* Let you know if any of these methods of support change.
 
 ## Chapter Leader Responsibilities
 ### Leadership & communications
