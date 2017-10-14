@@ -44,7 +44,7 @@ By signing the Volunteer Agreement, Bridges Leaders agree to:
 ### Spending money
 By signing the Volunteer Agreement, Bridges Leaders agree to:
 * Keep their expense card in a safe location and not share it with anyone else.
-* Spend funds only on approved expense categories, according to guidelines provided. 
+* Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
 * Contact Bridge Foundry for approval, signature, and management of contract if the bridge wants to hire an independent contractor to do work for the Bridge. (Bridge Foundry will enable this option if practical given internal policies and capacity.)
 * Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred. (currently via Expensify)
 * Submit receipts for all expenses to be reimbursed by a month after the expense is incurred. (currently via Expensify)
