@@ -40,6 +40,6 @@ By signing the Volunteer Agreement, Program Leaders agree to:
 ### Spending money
 By signing the Volunteer Agreement, Program Leaders agree to:
 * Keep their expense card in a safe location and not share it with anyone else.
-* Spend funds only according to guidelines provided in the operations guide. 
+* Spend funds only on approved expense categories, according to [approved expenses policy](https://rebrand.ly/bf-approved-expenses-policy).
 * Submit receipts for all expense card purchases by the 5th day of the month following the month they were incurred. (currently via Expensify)
 * Submit receipts for all expenses to be reimbursed within a month.
