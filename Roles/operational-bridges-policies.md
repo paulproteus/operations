@@ -36,7 +36,7 @@ By signing the Volunteer Agreement, Bridges Leaders agree to:
 * Work with their Bridge board to create a succession plan and ensure the longevity of the bridge
 * Serve as a bridge leader for the next year (365 days after the signing of this agreement).
 * Work with their Bridge to elect a representative to the Bridge Foundry Program Board
-* Respond to Bridge Foundry’s inquiry after a year to let us know who will be leading the chapter next year. If they don’t respond and Bridge Foundry is unable to determine whether there is leadership in place, the Bridge may be moved to “inactive” status.
+* Respond to Bridge Foundry’s inquiry after a year to let us know who will be leading the bridge next year. If they don’t respond and Bridge Foundry is unable to determine whether there is leadership in place, the Bridge may be moved to “inactive” status.
 * Sign an agreement as a volunteer fundraiser if they want to solicit donations for their bridge (apart from having a donate button embedded on the bridge’s website).
 * Inform Bridge Foundry of any incidents of injury, harassment, or code of conduct breaches at events via the reporting form. Talk with a Bridge Foundry leader to answer questions about the incident if needed.
 * Contact Bridge Foundry if the bridge needs something that involves signing a contract of any kind. Bridge Leaders do not have authority to bind the organization into contracts or agreements. 
