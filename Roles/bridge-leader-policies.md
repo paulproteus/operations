@@ -8,7 +8,7 @@ Bridges are a legal part of Bridge Foundry, Inc., a US nonprofit organization. T
 Bridge Leaders commit to a one year term. One Bridge Leader takes responsibility for communications between Bridge Foundry and the Bridge leadership team, representing their Bridge on the Program Board and informing Bridge Foundry about new leaders. Bridge board members recruit new leaders regularly to create a sustainable leadership team, with mentorship from Bridge Foundry staff and volunteers as needed.. Serving multiple terms is an option for Bridge leaders, though Bridge Foundry encourages turnover in this role to cultivate new leaders in your community. If we have not heard from you when your term is up,Bridge Foundry will check in with you to confirm who will be the leader for the next year, and complete an agreement with them.  
 
 ## Bridge Foundry's Responsibilities
-As long as your Bridge remains active and works in a way that is consistent with our mission and with policies, Bridge Foundry will:
+As long as your Bridge remains active and works in a way that is consistent with our mission and policies, Bridge Foundry will:
 * Accept online donations for the Bridge
   * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the Bridge in reserve for your Bridge’s use
