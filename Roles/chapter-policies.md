@@ -8,7 +8,7 @@ When Chapters form, their leader(s) commit to a one year term, with the understa
 Note: When a Chapter leader steps down, if a new leader is not identified, the chapter becomes an Independent Community, in which case volunteers are still able to hold workshops and apply for grants but the group is not considered a legal part of Bridge Foundry, Inc.
 
 ## Bridge Foundry's Responsibilities
-As long as your chapter remains active and in compliance with policies, Bridge Foundry will:
+As long as your Chapter remains active and works in a way that is consistent with our mission and policies, Bridge Foundry will:
 * Provide infrastructure for accepting online donations and send gift receipts 
   * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the chapter in reserve for your chapter’s sole use
