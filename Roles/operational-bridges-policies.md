@@ -1,4 +1,4 @@
-# Operational Bridges: Bridge Leader Policies
+# Operational Bridge Leader Policies
 
 Each Bridge represents a set of curriculum developed for a programming language or subject matter area. Bridges become “Operational” when they form a Bridge leadership board. Operational Bridges may promote use of a particular curriculum and provide deeper guidance and support for people who teach with and learn from the open source curriculum and other materials.
 
