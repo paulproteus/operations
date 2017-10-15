@@ -1,11 +1,11 @@
-# Operational Bridge Leader Policies
+# Bridge Leader Policies
 
-Each Bridge represents a set of curriculum developed for a programming language or subject matter area. Bridges become “Operational” when they form a Bridge leadership board. Operational Bridges may promote use of a particular curriculum and provide deeper guidance and support for people who teach with and learn from the open source curriculum and other materials.
+Each Bridge represents a set of curriculum developed for a programming language or subject matter area, and/or a group of volunteers working to develop resources for learning a specific technology. Bridge leaders may promote use of a particular curriculum, provide deeper guidance and support for people who teach with and learn from the open source curriculum and other materials, and engage in other activities that foster community engagement in learning about their technology.
 
-Operational Bridges are a legal part of Bridge Foundry, Inc., a US nonprofit organization. This document outlines the support Bridge Foundry agrees to provide to leaders, and what the leader agrees to do in return.
+Bridges are a legal part of Bridge Foundry, Inc., a US nonprofit organization. This document outlines the support Bridge Foundry agrees to provide to leaders, and what the leader agrees to do in return.
 
 ## Term of Leadership
-Leaders of Operational Bridges commit to a one year term. Bridge board members recruit new members as needed, and decide on the new Leader (representative to the Program Board) each year. Serving multiple terms is an option, though Bridge Foundry encourages turnover in this role to cultivate new leaders in your community. If we have not heard from you when your term is up, Bridge Foundry will check in with you to confirm who will be the leader for the next year, and complete an agreement with them.
+Leaders of Bridges commit to a one year term. Bridge board members recruit new members as needed, and decide on the new Leader (representative to the Program Board) each year. Serving multiple terms is an option, though Bridge Foundry encourages turnover in this role to cultivate new leaders in your community. If we have not heard from you when your term is up, Bridge Foundry will check in with you to confirm who will be the leader for the next year, and complete an agreement with them.
 
 ## Bridge Foundry's Responsibilities
 As long as your Bridge remains active and in compliance with policies, Bridge Foundry will:
