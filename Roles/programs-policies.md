@@ -10,7 +10,7 @@ When Operational Programs form, their leader(s) commit to a one year term, with 
 Note: When a Program leader steps down, if a new leader is not identified, the program becomes inactive and we may utilize extra funds elsewhere in support of our mission.
 
 ## Bridge Foundry's Responsibilities
-As long as your program remains active and in compliance with policies, Bridge Foundry will:
+As long as your Program remains active and works in a way that is consistent with our mission and policies, Bridge Foundry will:
 * Provide infrastructure for accepting online donations and send gift receipts 
   * If you want to raise funds in other ways, sign up as a Volunteer Fundraiser (separate agreement)
 * Hold funds raised for the program in reserve for your program’s sole use
