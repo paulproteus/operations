@@ -1,22 +1,22 @@
 # Volunteer Fundraiser Policies
 
 ## Definition of Role
-Volunteer Fundraiser is a role that allows individuals to do fundraising for activities within Bridge Foundry’s wide network of impact. This policy outlines the support Bridge Foundry agrees to provide to Volunteer Fundraisers, and what the Volunteer Fundraiser agrees to do in return.
+Volunteer Fundraiser is a role that allows individuals to do fundraising for activities within Bridge Foundry’s wide network of impact. This policy outlines the support Bridge Foundry agrees to provide to Volunteer Fundraisers, and what the Volunteer Fundraiser agrees to do in return. This could be for a one-time fundraising effort or ongoing activity as part of a general fund-raising committee or collaboration with a Community, Chapter or Bridge.
 
-Technically, if a leader or volunteer for an Independent Community serves as a Volunteer Fundraiser, they are a volunteer of Bridge Foundry only in this specific fundraising capacity. This Volunteer Agreement with Volunteer Fundraisers does not imply that their group’s activities are part of Bridge Foundry’s legal operations. 
+If a member of an Independent Community serves as a Volunteer Fundraiser, they are a volunteer of Bridge Foundry in this specific fundraising capacity. This agreement does not imply that their Community’s activities are part of Bridge Foundry’s legal operations. 
 
 ## Volunteer Term
-Volunteer Fundraisers have a term of one year (365 days). If they wish to continue raising funds after a year, Bridge Foundry will ask them to complete another Volunteer Agreement. This is for multiple reasons: so that we have an accurate record of the current number of Volunteer Fundraisers and to ensure that everyone remembers what they have agreed.
+Volunteer Fundraisers have a term of one year (365 days). If they wish to continue raising funds after a year, Bridge Foundry will ask them to complete another Volunteer Agreement. This is for multiple reasons: so that we have an accurate record of the current number of Volunteer Fundraisers with up-to-date contact information and to ensure that everyone remembers what they have agreed.
 
 ## Bridge Foundry's Responsibilities
 During your term as Volunteer Fundraiser (as long as you follow policies), Bridge Foundry will:
 * Provide materials about Bridge Foundry that you can use in conversations with donors
 * Answer your questions about processing donations
-* Allocate funds you raise to the chapter, community, program, or purpose indicated on the volunteer agreement whenever practical
+* Allocate funds you raise to the chapter, program, or purpose indicated on the volunteer agreement as long as there are active volunteers who need funding for mission-aligned activities, consistent with our operational policies.
 
 ## Volunteer Fundraiser's Responsibilities:
 By signing the Volunteer Agreement, Volunteer Fundraisers agree to:
-* Explain to donors that donations are technically raised as “unrestricted funds:” that Bridge Foundry will apply the funds for the specific purpose you’re raising them for to the extent practical and that they may also be applied to other activities in support of Bridge Foundry’s mission if there are leftover funds or a chapter or community becomes inactive.  (See "unrestricted funds" note below.)
+* Explain to donors that donations are technically raised as “unrestricted funds,” which Bridge Foundry will apply for the specific purpose you’re raising them for to the extent practical and that they may also be applied to other activities in support of Bridge Foundry’s mission if there are leftover funds or a group of volunteers becomes inactive. (See “unrestricted funds” note below.)
   * If any online fundraising component is approved for my fundraising campaign, include specific language provided by Bridge Foundry on the campaign page about the funds being unrestricted 
 * Refrain from soliciting particular donors if requested by Bridge Foundry (See "solicitation limitations" note below.)
 * Gather the donor’s legal name, address, and email (for companies, gather a legal company name and a contact person name)
