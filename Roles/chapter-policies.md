@@ -1,11 +1,11 @@
-# Operational Chapters: Chapter Leader Policies
+# Chapter Leader Policies
 
-Operational Chapters are groups that hold workshops on a regular basis and want to operate as a legal part of the Bridge Foundry nonprofit organization. This page outlines the support Bridge Foundry agrees to provide to operational chapters, and what the chapter leader agrees to do in return.
+Chapters are groups that hold workshops on a regular basis and want to operate as a legal part of the Bridge Foundry nonprofit organization. This page outlines the support Bridge Foundry agrees to provide to chapters, and what the chapter leader agrees to do in return.
 
 ## Term of Leadership
-When Operational Chapters form, their leader(s) commit to a one year term, with the understanding that you can renew as many times as you’d like. Bridge Foundry will check in with you at the end of the yearlong period to confirm who will be the leader(s) for the next year, and complete an agreement with any new leader(s). 
+When Chapters form, their leader(s) commit to a one year term, with the understanding that you can renew as many times as you’d like. Bridge Foundry will check in with you at the end of the yearlong period to confirm who will be the leader(s) for the next year, and complete an agreement with any new leader(s). 
 
-Note: When a Chapter leader steps down, if a new leader is not identified, the chapter becomes a Community Chapter, in which case volunteers are still able to hold workshops and apply for grants but the chapter is not considered a legal part of Bridge Foundry, Inc.
+Note: When a Chapter leader steps down, if a new leader is not identified, the chapter becomes an Independent Community, in which case volunteers are still able to hold workshops and apply for grants but the group is not considered a legal part of Bridge Foundry, Inc.
 
 ## Bridge Foundry's Responsibilities
 As long as your chapter remains active and in compliance with policies, Bridge Foundry will:
