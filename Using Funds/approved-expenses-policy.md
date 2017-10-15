@@ -1,7 +1,8 @@
 # Approved Expenses Policy
 
-## Chapters
-The following workshop expenses are appropriate for Community Chapter Leaders to apply a grant toward, and for Operational Chapter Leaders to purchase with their Pex card or submit for reimbursement.
+Activities within the Bridge structure are primarily workshop based, so many of our standard approved expense types are modeled on common workshop expenses. But as we've grown, Bridges, Chapters, Communities, and Programs have developed interesting ways to promote diversity in their groups. Got an inspiring idea for something not on the list below? Please ask us how we can help you and if we can cover your idea! Email us at finance@bridgefoundry.org to start the conversation.
+
+## Workshop Expenses
 * Food
   * Breakfast and/or lunch
   * Installfest refreshments/food
@@ -10,11 +11,10 @@ The following workshop expenses are appropriate for Community Chapter Leaders to
 * Nametags, pens, stickers and misc supplies
 * Branded giveaways like t-shirts and stickers
 
-## Bridges
+## Other Expenses
 * Software that supports Bridge operations (check with us first to see if we already have a discount or group account)
-* Marketing for the Bridge
+* Marketing for Bridges
 
-## Exceptions
-If you will have different kinds of expenses because you are doing something new or different, contact us at finance@bridgefoundry.org. We aim to be as flexible as possible to support different approaches, and we just need to determine operational implications before approving new expense types. By signing the Volunteer Agreement, volunteers to wait to hear back about whether we can support a new type of expense before moving forward with any purchases.
+As we identify new types of expenses that we are able to support, this list will grow.
 
 All expenses that are exceptions or additions to this policy must be only for charitable and educational activities consistent with our tax-exempt status. 
