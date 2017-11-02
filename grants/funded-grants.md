@@ -1,7 +1,7 @@
 # Funded Grants
 Funded Grants are when a [Volunteer Fundraiser](https://rebrand.ly/volunteer-fundraiser-policies) raises money for your Community and then we distribute it via a grant. We ask that you still "apply" for the grant so that we have a paper trail and you've agreed to follow our policies for [allowed expenses](./using-funds/approved-expenses-policy.md) and [expense reports](./using-funds/expense-reports.md).
 
-## Apply for a Grant
+## Apply for a Funded Grant
 To apply for the grant, just fill out this [Application Form](https://docs.google.com/forms/d/e/1FAIpQLScyFx1Js_1vIz5ZcPZ6niJ-CMHZyTpbHRMgm1SrZnoI8mnRQg/viewform). Select "We (will) have funds raised specifically for our Community" since you plan to raise money to cover the workshop(s).
 
 If you plan to hold and raise funds for multiple workshops in a year, you can submit just one application for them all. Just indicate how many workshops you plan to hold as part of the grant.
