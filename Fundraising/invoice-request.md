@@ -19,4 +19,5 @@ If you are curious about the status of the payment at any time, you can click on
 
 If a donor check or payment is not received prior to an upcoming workshop, don’t worry! We will advance funds from the Bridge Foundry general fund to cover your expenses until we receive payment.
 
-
+## Paperwork
+Sometimes sponsors want us to fill out special vendor paperwork, get set up in their ACH system, provide a W9, or prove our 501c3 status. These are all things we are happy to handle directly. In most cases they simply reply to the invoice and we give them what they need. If someone contacts you directly about this sort of thing, direct them to finance@bridgefoundry.org.
