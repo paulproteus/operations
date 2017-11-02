@@ -10,3 +10,13 @@ The sponsor may pay by any of the following methods once they receive the invoic
 
 When you fill out the Invoice Request Form, you can select which payment options you want activated on the invoice. In order to maximize your donation, we recommend either leaving the credit option off or asking them if they will consider covering the fees. Many sponsors prefer the convenience of credit card transactions and are happy to pay a few dollars more to cover the transaction fee, in which case we can include that as an additional line item on the invoice.
 
+## Payment Follow Up
+Once you submit an invoice request, we will follow up to ensure payment comes through.
+* After about a month with no payment, we remind the sponsor about paying
+* After about 2 months with no payment, we will ask you to follow up with the sponsor directly
+
+If you are curious about the status of the payment at any time, you can click on the original emailed invoice (it will be marked "Paid" in big letters if we have received payment). 
+
+If a donor check or payment is not received prior to an upcoming workshop, don’t worry! We will advance funds from the Bridge Foundry general fund to cover your expenses until we receive payment.
+
+
