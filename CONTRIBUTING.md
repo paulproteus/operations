@@ -10,6 +10,8 @@ to ensure that all volunteers are treated equally and fairly and that everything
 we do is well within the law, upholds our policies and seeks to be true to our
 values.
 
+All changes made to the Operations Guide are submitted as pull requests, unless the change is to fix a typo or there is a compelling need for a direct commit. Changes made to add clarity may be reviewed by any community member and then committed by the original contributor. Changes to policy require review and approval by both the CEO and COO.
+
 
 ## Style Guide
 
