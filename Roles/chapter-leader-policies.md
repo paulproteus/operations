@@ -32,7 +32,7 @@ By signing the Volunteer Agreement, Chapter Leaders agree to:
 * Meet with their Bridge leader and/or a volunteer mentor once a year to share knowledge about successes and challenges.
 * Respond to Bridge Foundry’s inquiry after a year to let us know who will be leading the chapter next year. If they don’t respond, Bridge Foundry will convert the chapter to a Community Chapter.
 * Sign an agreement as a volunteer fundraiser if they want to solicit donations for their chapter (apart from having a donate button embedded on the chapter’s website).
-* Inform Bridge Foundry of any incidents of injury, harassment, or code of conduct breaches at workshops or events via the [Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSe19euBU-pMEDpJEzyvQF32ob0JzvA1dMnDI3uW2FluNMrOIQ/viewform?usp=sf_link). Talk with a Bridge Foundry leader to answer questions about the incident if needed.
+* Inform Bridge Foundry of any incidents of injury, harassment, or code of conduct breaches at workshops or events via the [Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSfR8h4-BteTIpcKE9hULG43jet9rrBEMXh7ILoSLH_Ky2PXHg/viewform?usp=sf_link). Talk with a Bridge Foundry leader to answer questions about the incident if needed.
 * Contact Bridge Foundry if their chapter needs something that involves signing a contract of any kind. Chapter Leaders do not have authority to bind the organization into contracts or agreements. 
 
 ### Spending money
