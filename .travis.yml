@@ -4,7 +4,8 @@ python:
 script:
   - cp mkdocs.yml ..
   - pip install mkdocs
-  - mkdir -d /tmp/generated -f ../mkdocs.yml build
+  - mkdir -p /tmp/generated
+  - mkdocs -d /tmp/generated -f ../mkdocs.yml build
   - mv /tmp/generated .
 
 deploy:
