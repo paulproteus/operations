@@ -1,3 +1,4 @@
 site_name: Operations
+docs_dir: .
 pages:
     - Home: README.md
