@@ -2,8 +2,9 @@ language: python
 python:
   - '3.5'
 script:
+  - pip install mkdocs
   - mkdir -p generated
-  - echo "OMG HELLO WORLD" > generated/index.html
+  - mkdocs build -d generated
 deploy:
   provider: pages
   skip_cleanup: true
