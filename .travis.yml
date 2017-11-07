@@ -1,4 +1,5 @@
 before_install:
+  - mkdir -p generated
   - echo "OMG HELLO WORLD" > generated/index.html
 deploy:
   provider: pages
@@ -7,4 +8,3 @@ deploy:
   on:
     branch: master
   local_dir: generated
-
