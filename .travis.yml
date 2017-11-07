@@ -1,4 +1,4 @@
-before_install:
+install:
   - mkdir -p generated
   - echo "OMG HELLO WORLD" > generated/index.html
 deploy:
