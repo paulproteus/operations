@@ -3,8 +3,9 @@ python:
   - '3.5'
 script:
   - pip install mkdocs
-  - mkdir -p generated
-  - mkdocs build -d generated
+  - mkdir -p /tmp/generated
+  - mkdocs build -d /tmp/generated
+  - mv /tmp/generated .
 deploy:
   provider: pages
   skip_cleanup: true
