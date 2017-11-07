@@ -5,7 +5,7 @@ script:
   - cp mkdocs.yml ..
   - pip install mkdocs
   - mkdir -p /tmp/generated
-  - mkdocs -d /tmp/generated -f ../mkdocs.yml build
+  - mkdocs build -d /tmp/generated -f ../mkdocs.yml
   - mv /tmp/generated .
 
 deploy:
