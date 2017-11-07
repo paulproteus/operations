@@ -1,4 +1,4 @@
-install:
+build:
   - mkdir -p generated
   - echo "OMG HELLO WORLD" > generated/index.html
 deploy:
