@@ -1,5 +1,3 @@
 site_name: Operations
 docs_dir: ./
-pages:
-    - Home: README.md
 site_url: https://paulproteus.github.io/operations/
