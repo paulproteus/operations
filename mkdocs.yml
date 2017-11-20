@@ -7,7 +7,7 @@ pages:
 - docs:
     - monitoring-funds: 'monitoring-funds.md'
 - fundraising:
-    - index: 'fundraising/README.md'
+    - Overview: 'fundraising/README.md'
     - employer-match: 'fundraising/employer-match.md'
     - invoice-request: 'fundraising/invoice-request.md'
     - paypal-button: 'fundraising/paypal-button.md'
