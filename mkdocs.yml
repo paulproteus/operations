@@ -1,7 +1,7 @@
 site_name: Operations
 docs_dir: docs/
 pages:
-- "Home": 'README.md'
+- "Home": 'index.md'
 - docs:
     - monitoring-funds: 'monitoring-funds.md'
 - fundraising:
