@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://paulproteus.github.io/operations/docs/using-funds/expense-reports/">
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>expense-reports - Operations</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../../css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../../CONTRIBUTING/">Operations</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="../../../CONTRIBUTING/">CONTRIBUTING</a>
+                    </li>
+                    <li >
+                        <a href="../../../README/">Home</a>
+                    </li>
+                    <li >
+                        <a href="../../../monitoring-funds/">monitoring-funds</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/fundraising <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../fundraising/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../fundraising/employer-match/">employer-match</a>
+</li>
+                            
+<li >
+    <a href="../../fundraising/invoice-request/">invoice-request</a>
+</li>
+                            
+<li >
+    <a href="../../fundraising/paypal-button/">paypal-button</a>
+</li>
+                            
+<li >
+    <a href="../../fundraising/unrestricted-funds/">unrestricted-funds</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/grants <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../grants/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../grants/funded-grants/">funded-grants</a>
+</li>
+                            
+<li >
+    <a href="../../grants/seed-grants/">seed-grants</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/internal-process <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../internal-process/grant-decision-guidelines/">grant-decision-guidelines</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/roles <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../roles/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../roles/bridge-leader-policies/">bridge-leader-policies</a>
+</li>
+                            
+<li >
+    <a href="../../roles/chapter-leader-policies/">chapter-leader-policies</a>
+</li>
+                            
+<li >
+    <a href="../../roles/program-leader-policies/">program-leader-policies</a>
+</li>
+                            
+<li >
+    <a href="../../roles/volunteer-fundraiser-policies/">volunteer-fundraiser-policies</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/school-factory <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../school-factory/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/bridge-chapter-policies/">bridge-chapter-policies</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/monitoring-your-funds/">monitoring-your-funds</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/using-funds <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../README/">README</a>
+</li>
+                            
+<li >
+    <a href="../approved-expenses-policy/">approved-expenses-policy</a>
+</li>
+                            
+<li >
+    <a href="../direct-pay/">direct-pay</a>
+</li>
+                            
+<li class="active">
+    <a href="./">expense-reports</a>
+</li>
+                            
+<li >
+    <a href="../pex-cards/">pex-cards</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/school-factory/financial-support <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../school-factory/financial-support/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/financial-support/workshop-grant-applications/">workshop-grant-applications</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/school-factory/internal-process <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../school-factory/internal-process/grant-guidelines/">grant-guidelines</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/internal-process/operations/">operations</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/school-factory/sponsorship <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../school-factory/sponsorship/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/sponsorship/online-donations/">online-donations</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/sponsorship/request-invoice/">request-invoice</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/sponsorship/submit-payment/">submit-payment</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/sponsorship/verify-501c3-status/">verify-501c3-status</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">docs/school-factory/using-funds <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../school-factory/using-funds/README/">README</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/using-funds/expense-report/">expense-report</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/using-funds/pex-cards/">pex-cards</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/using-funds/working-with-vendors/">working-with-vendors</a>
+</li>
+                            
+<li >
+    <a href="../../school-factory/using-funds/workshop-expenses/">workshop-expenses</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../direct-pay/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../pex-cards/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#expense-reports">Expense Reports</a></li>
+            <li><a href="#get-set-up-on-expensify-one-time">Get Set Up On Expensify (One time)</a></li>
+            <li><a href="#submitting-reports">Submitting Reports</a></li>
+            <li><a href="#attaching-multiple-receipts">Attaching Multiple Receipts</a></li>
+            <li><a href="#submitting-a-report-for-someone-else">Submitting a Report for Someone Else</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="expense-reports">Expense Reports</h1>
+<p>Expense reports are required for all expenditures via reimbursement (within a month of purchase), cash advance (within a week of purchase), and Pex card (by 5 days after month end).</p>
+<p>Expense report submissions are done via Expensify.  Our goal is to make this easy for volunteers.  If any of this presents a hardship, please <a href="mailto:finance@bridgefoundry.org">let us know</a>!  We're always looking for ways to streamline our processes.</p>
+<p>In addition to following the directions below for getting set up on Expensify initially, we encourage you to bookmark this page and review the "Submitting Reports" section each time you submit a report, as there are important reminders included.</p>
+<h2 id="get-set-up-on-expensify-one-time">Get Set Up On Expensify (One time)</h2>
+<ol>
+<li>
+<p>Complete and submit this form: http://goo.gl/forms/7PjAqgoGM2.</p>
+</li>
+<li>
+<p>Once you have received an email from Expensify notifying you that you have been added to the “Bridge Foundry Policy,” create an account on Expensify. You can sign in with an existing account like Google or set up a username and password.</p>
+</li>
+</ol>
+<p>You should be set up within two business days. If you do not receive an Expensify confirmation that you have been added to the “Bridge Foundry Policy” within that time frame, please email finance@bridgefoundry.org.</p>
+<ol>
+<li>If you are getting reimbursed, add your bank account (do this before submitting your report to get paid faster!) The bank account information should belong to the individual who is requesting reimbursement. Each individual that needs reimbursement generally signs up for their own account and enters their own bank information.</li>
+</ol>
+<p>If you need to submit a report on someone else's behalf, however, see the instructions at the bottom of this page.</p>
+<p>Here's how to add the bank account for your own reimbursements:
+   * Click on the icon in the upper right corner of the screen and select "Personal Settings". <img alt="" src="https://lh5.googleusercontent.com/N0U2jdm8BS4HY3pz3ReYlLDNXVZOrQZaduuYKP2Yu2FS50PJ5GdIBI3Niw9MXWXKcEIFk40n1dstM6JwoIJ0-2wLr-iKlUO36YmnPfYMVTY47kI3n1cXWoyffud5kMsyLnzPc_E" /></p>
+<ul>
+<li>
+<p>On the right side of the screen, select "Reimbursement", then add a deposit account. You will need your routing and account numbers.
+<img alt="" src="https://lh5.googleusercontent.com/GPv_a6Vrai9tyHbG895_uxwkXnv3uthys0Vtq8cd1IaRnujV036fHo7laRyTovBkFTyHTusl1xNzEl07TQTsJ_3W57Y5bZ8cyMdQ1B0eQqqB5ehoQP778k3p0M-bhsmDJBQRDXQ" /></p>
+</li>
+<li>
+<p>Once the account is added, Expensify will make three deposits into your account that you will need to verify in order to receive reimbursement via the account.</p>
+</li>
+</ul>
+<h2 id="submitting-reports">Submitting Reports</h2>
+<ol>
+<li>Create a new report and add your expenses: </li>
+<li>For workshop expenses, include the date(s) of the workshop in the report name.</li>
+<li>Check the "reimburseable" box on each expense that you paid out of pocket and uncheck the box for Pex card expenses.</li>
+<li>
+<p>Select an expense category and a tag (your chapter/community name or general fund) for each individual expense. List specifics in the Comment field for expenses in the Other category.</p>
+</li>
+<li>
+<p>Double check that your report meets the following criteria - these are required for reimbursement!</p>
+</li>
+<li>All expenses must have itemized receipts attached. (Include both itemized receipt and payment receipt if tips included in final total. Invoices that don't list an amount paid do not count as receipts. We need to see that you paid the invoice. Use our <a href="https://drive.google.com/file/d/0ByFHpp-IkBaFbnBZTndCWTktcmc/view?usp=sharing">template</a> for on-site service providers if they don't provide receipts.) See note at the bottom of this page about how to submit multiple receipts!</li>
+<li>Expenses must be for a chapter or fund for which you are approved to submit expenses, and must follow our <a href="https://github.com/bridgefoundry/operations/blob/master/using-funds/approved-expenses-policy.md">allowed expense policy</a></li>
+</ol>
+<p><img alt="" src="https://lh3.googleusercontent.com/rRTZcD2dWM6CwDQGjCKGJM_AXwfBBWmfYcP87CJze6wjjLEGfIWSmSoy9YoYNkIpPh9a7BeHf37X1Eqne65WWhE-XbNXt3SJBoLTpJSMR2lYgEk_8aIYCaR-eqiCiMdD2gAGkoM" /></p>
+<ol>
+<li>
+<p>Submit the report using the button near the top left of the screen.</p>
+</li>
+<li>
+<p>If you haven’t already, add a bank account so you can receive payment. (For those getting reimbursed.)</p>
+</li>
+<li>
+<p>You will receive an email when the expense report has been approved. Feel free to email us at finance@bridgefoundry.org if you aren’t seeing approval come through within a week of submission.</p>
+</li>
+<li>
+<p><strong>PLEASE NOTE</strong> that if you DO NOT select the "Bridge Foundry" policy in the upper right hand corner of the report, it won't be submitted to us and we will not receive notification that you've submitted a report.</p>
+</li>
+<li>
+<p>For those getting reimbursed, ACH payments will arrive in your bank account about one week after approval. </p>
+</li>
+</ol>
+<h2 id="attaching-multiple-receipts">Attaching Multiple Receipts</h2>
+<p>For expenses that require multiple attachments, there are two ways to approach this:
+1. Combine all receipts for that expense into a single document and then upload that for the receipt. We will scroll through when reviewing the receipts.
+2. Or, include additional receipts/documents at the bottom of the report as "attachments." If it looks like something is missing, we will check the attachments before asking you about it.</p>
+<h2 id="submitting-a-report-for-someone-else">Submitting a Report for Someone Else</h2>
+<p>If you need to submit a report on someone else's behalf, take the following additional steps:
+- Include the name of the volunteer to be reimbursed in the report name
+- Add a comment at the bottom of the report with the name and postal address of the volunteer who should be sent a check.</p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '../../..';</script>
+        <script src="../../../js/base.js"></script>
+        <script src="../../../search/require.js"></script>
+        <script src="../../../search/search.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&larr;</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&rarr;</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </body>
+</html>
