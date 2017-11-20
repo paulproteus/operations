@@ -1,52 +1,51 @@
 site_name: Operations
 docs_dir: docs/
-- CONTRIBUTING: 'CONTRIBUTING.md'
-- Home: 'README.md'
+pages:
 - docs:
-    - monitoring-funds: 'docs/monitoring-funds.md'
-- docs/fundraising:
-    - README: 'docs/fundraising/README.md'
-    - employer-match: 'docs/fundraising/employer-match.md'
-    - invoice-request: 'docs/fundraising/invoice-request.md'
-    - paypal-button: 'docs/fundraising/paypal-button.md'
-    - unrestricted-funds: 'docs/fundraising/unrestricted-funds.md'
-- docs/grants:
-    - README: 'docs/grants/README.md'
-    - funded-grants: 'docs/grants/funded-grants.md'
-    - seed-grants: 'docs/grants/seed-grants.md'
-- docs/internal-process:
-    - grant-decision-guidelines: 'docs/internal-process/grant-decision-guidelines.md'
-- docs/roles:
-    - README: 'docs/roles/README.md'
-    - bridge-leader-policies: 'docs/roles/bridge-leader-policies.md'
-    - chapter-leader-policies: 'docs/roles/chapter-leader-policies.md'
-    - program-leader-policies: 'docs/roles/program-leader-policies.md'
-    - volunteer-fundraiser-policies: 'docs/roles/volunteer-fundraiser-policies.md'
-- docs/school-factory:
-    - README: 'docs/school-factory/README.md'
-    - bridge-chapter-policies: 'docs/school-factory/bridge-chapter-policies.md'
-    - monitoring-your-funds: 'docs/school-factory/monitoring-your-funds.md'
-- docs/using-funds:
-    - README: 'docs/using-funds/README.md'
-    - approved-expenses-policy: 'docs/using-funds/approved-expenses-policy.md'
-    - direct-pay: 'docs/using-funds/direct-pay.md'
-    - expense-reports: 'docs/using-funds/expense-reports.md'
-    - pex-cards: 'docs/using-funds/pex-cards.md'
-- docs/school-factory/financial-support:
-    - README: 'docs/school-factory/financial-support/README.md'
-    - workshop-grant-applications: 'docs/school-factory/financial-support/workshop-grant-applications.md'
-- docs/school-factory/internal-process:
-    - grant-guidelines: 'docs/school-factory/internal-process/grant-guidelines.md'
-    - operations: 'docs/school-factory/internal-process/operations.md'
-- docs/school-factory/sponsorship:
-    - README: 'docs/school-factory/sponsorship/README.md'
-    - online-donations: 'docs/school-factory/sponsorship/online-donations.md'
-    - request-invoice: 'docs/school-factory/sponsorship/request-invoice.md'
-    - submit-payment: 'docs/school-factory/sponsorship/submit-payment.md'
-    - verify-501c3-status: 'docs/school-factory/sponsorship/verify-501c3-status.md'
-- docs/school-factory/using-funds:
-    - README: 'docs/school-factory/using-funds/README.md'
-    - expense-report: 'docs/school-factory/using-funds/expense-report.md'
-    - pex-cards: 'docs/school-factory/using-funds/pex-cards.md'
-    - working-with-vendors: 'docs/school-factory/using-funds/working-with-vendors.md'
-    - workshop-expenses: 'docs/school-factory/using-funds/workshop-expenses.md'
+    - monitoring-funds: 'monitoring-funds.md'
+- fundraising:
+    - README: 'fundraising/README.md'
+    - employer-match: 'fundraising/employer-match.md'
+    - invoice-request: 'fundraising/invoice-request.md'
+    - paypal-button: 'fundraising/paypal-button.md'
+    - unrestricted-funds: 'fundraising/unrestricted-funds.md'
+- grants:
+    - README: 'grants/README.md'
+    - funded-grants: 'grants/funded-grants.md'
+    - seed-grants: 'grants/seed-grants.md'
+- internal-process:
+    - grant-decision-guidelines: 'internal-process/grant-decision-guidelines.md'
+- roles:
+    - README: 'roles/README.md'
+    - bridge-leader-policies: 'roles/bridge-leader-policies.md'
+    - chapter-leader-policies: 'roles/chapter-leader-policies.md'
+    - program-leader-policies: 'roles/program-leader-policies.md'
+    - volunteer-fundraiser-policies: 'roles/volunteer-fundraiser-policies.md'
+- school-factory:
+    - README: 'school-factory/README.md'
+    - bridge-chapter-policies: 'school-factory/bridge-chapter-policies.md'
+    - monitoring-your-funds: 'school-factory/monitoring-your-funds.md'
+- using-funds:
+    - README: 'using-funds/README.md'
+    - approved-expenses-policy: 'using-funds/approved-expenses-policy.md'
+    - direct-pay: 'using-funds/direct-pay.md'
+    - expense-reports: 'using-funds/expense-reports.md'
+    - pex-cards: 'using-funds/pex-cards.md'
+- school-factory/financial-support:
+    - README: 'school-factory/financial-support/README.md'
+    - workshop-grant-applications: 'school-factory/financial-support/workshop-grant-applications.md'
+- school-factory/internal-process:
+    - grant-guidelines: 'school-factory/internal-process/grant-guidelines.md'
+    - operations: 'school-factory/internal-process/operations.md'
+- school-factory/sponsorship:
+    - README: 'school-factory/sponsorship/README.md'
+    - online-donations: 'school-factory/sponsorship/online-donations.md'
+    - request-invoice: 'school-factory/sponsorship/request-invoice.md'
+    - submit-payment: 'school-factory/sponsorship/submit-payment.md'
+    - verify-501c3-status: 'school-factory/sponsorship/verify-501c3-status.md'
+- school-factory/using-funds:
+    - README: 'school-factory/using-funds/README.md'
+    - expense-report: 'school-factory/using-funds/expense-report.md'
+    - pex-cards: 'school-factory/using-funds/pex-cards.md'
+    - working-with-vendors: 'school-factory/using-funds/working-with-vendors.md'
+    - workshop-expenses: 'school-factory/using-funds/workshop-expenses.md'
