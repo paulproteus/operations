@@ -11,41 +11,41 @@ pages:
     - paypal-button: 'fundraising/paypal-button.md'
     - unrestricted-funds: 'fundraising/unrestricted-funds.md'
 - grants:
-    - README: 'grants/README.md'
+    - Home: 'grants/README.md'
     - funded-grants: 'grants/funded-grants.md'
     - seed-grants: 'grants/seed-grants.md'
 - internal-process:
     - grant-decision-guidelines: 'internal-process/grant-decision-guidelines.md'
 - roles:
-    - README: 'roles/README.md'
+    - Home: 'roles/README.md'
     - bridge-leader-policies: 'roles/bridge-leader-policies.md'
     - chapter-leader-policies: 'roles/chapter-leader-policies.md'
     - program-leader-policies: 'roles/program-leader-policies.md'
     - volunteer-fundraiser-policies: 'roles/volunteer-fundraiser-policies.md'
 - school-factory:
-    - README: 'school-factory/README.md'
+    - Home: 'school-factory/README.md'
     - bridge-chapter-policies: 'school-factory/bridge-chapter-policies.md'
     - monitoring-your-funds: 'school-factory/monitoring-your-funds.md'
 - using-funds:
-    - README: 'using-funds/README.md'
+    - Home: 'using-funds/README.md'
     - approved-expenses-policy: 'using-funds/approved-expenses-policy.md'
     - direct-pay: 'using-funds/direct-pay.md'
     - expense-reports: 'using-funds/expense-reports.md'
     - pex-cards: 'using-funds/pex-cards.md'
 - school-factory/financial-support:
-    - README: 'school-factory/financial-support/README.md'
+    - Home: 'school-factory/financial-support/README.md'
     - workshop-grant-applications: 'school-factory/financial-support/workshop-grant-applications.md'
 - school-factory/internal-process:
     - grant-guidelines: 'school-factory/internal-process/grant-guidelines.md'
     - operations: 'school-factory/internal-process/operations.md'
 - school-factory/sponsorship:
-    - README: 'school-factory/sponsorship/README.md'
+    - Home: 'school-factory/sponsorship/README.md'
     - online-donations: 'school-factory/sponsorship/online-donations.md'
     - request-invoice: 'school-factory/sponsorship/request-invoice.md'
     - submit-payment: 'school-factory/sponsorship/submit-payment.md'
     - verify-501c3-status: 'school-factory/sponsorship/verify-501c3-status.md'
 - school-factory/using-funds:
-    - README: 'school-factory/using-funds/README.md'
+    - Home: 'school-factory/using-funds/README.md'
     - expense-report: 'school-factory/using-funds/expense-report.md'
     - pex-cards: 'school-factory/using-funds/pex-cards.md'
     - working-with-vendors: 'school-factory/using-funds/working-with-vendors.md'
