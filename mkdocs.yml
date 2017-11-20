@@ -1,7 +1,6 @@
 site_name: Operations
 docs_dir: docs/
 repo_url: https://github.com/paulproteus/operations-asheesh-test
-edit_uri: edit/master/docs/
 pages:
 - "Home": 'index.md'
 - docs:
