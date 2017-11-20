@@ -1,3 +1,2 @@
 site_name: Operations
-docs_dir: ./
-site_url: https://paulproteus.github.io/operations/
+docs_dir: docs/
